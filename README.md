@@ -3,7 +3,7 @@ shop MSQL
 
 #WHAT WAS THE CHALLENGE?
 
-TO use MYsql witjin our VMs, to create a database with dummy data within four seperate tables. 
+TO use MYsql within our VMs, to create a database with dummy data within four seperate tables. 
 Tables to be named: 
     * **Category** 
     * **Subcategory**
@@ -15,7 +15,7 @@ These tables were to be used as part of 6 set queries to show our skill in compl
 Furthermore to create a ERD diagram to display the relationship between the 4 tables
 
 #WHAT WENT WELL?
-Creating a database, and tables was a straightfoward task. 
+Creating a database, and tables was a straightforward task. 
 
 Furthermore having lots of previous screenshots, and notes of my own work, helped me to remember many of the processes involved in keepinmg to the logic of Mysql.
 
